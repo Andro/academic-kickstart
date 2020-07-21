@@ -59,5 +59,5 @@ subtitle = ""
 <p class=demo-moto>Interpretations</p>
 <ul class=network-icon aria-hidden=true><li>
 <a itemprop=sameAs href=https://www.linkedin.com/in/alexander-kvartalny-russian-interpreter-89a19419b/ target=_blank rel=noopener><i class="fab fa-linkedin big-icon"></i></a>
-<a itemprop=sameAs href=https://www.messenger.com/t/kvartalny target=_blank rel=noopener><i class="fab fa-messenger big-icon"></i></a>
+<a itemprop=sameAs href=https://www.messenger.com/t/kvartalny target=_blank rel=noopener><i class="fab fa-facebook-messenger big-icon"></i></a>
 </li></ul><p class=cta-btns><a href=/#contact class="btn btn-light btn-lg"><i class="fas fa-paper-plane" aria-hidden=true></i> Get in touch</a></p></div></div>
