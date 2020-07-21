@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 <div class=container>
-<img class="avatar-circle" align="center" src=/author/alexander-kvartalny/avatar_hu33f5f57235d7950e444fbdb6fb6fb532_75201_270x270_fill_q90_lanczos_center.jpg alt=Avatar>
+<div class="col-4 mx-auto"> <img class="avatar-circle" src=/author/alexander-kvartalny/avatar_hu33f5f57235d7950e444fbdb6fb6fb532_75201_270x270_fill_q90_lanczos_center.jpg alt=Avatar></div>
 <div class="col-12 text-center">
 <h1 class=demo-title itemprop=headline>Alexander Kvartalny</h1>
 <p class=demo-subtitle>Interpreter</p>
@@ -63,4 +63,4 @@ subtitle = ""
 <li><a itemprop=sameAs href=mailto:alexander.kvartalny@gmail.com target=_blank rel=noopener><i class="fa fa-envelope big-icon"></i></li></a>
 <li><a itemprop=sameAs href=viber://chat/?number=%2B380669298059 target=_blank rel=noopener><i class="fab fa-viber big-icon"></i></li></a>
 <li><a itemprop=sameAs href=https://t.me/kvartalny target=_blank rel=noopener><i class="fab fa-telegram big-icon"></i></li></a>
-</ul><p class=cta-btns><a href=/#contact class="btn btn-light btn-lg"><i class="fas fa-paper-plane" aria-hidden=true></i>&nbsp;&nbsp;Get in touch</a></p></div></div>
+</ul><p class=cta-btns><a href=/#contact class="btn btn-light btn-lg"><i class="fas fa-paper-plane" aria-hidden=true></i>&nbsp;&nbsp;Get in touch</a></p></div>
