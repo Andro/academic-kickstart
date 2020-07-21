@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 <div class=container>
-<div class="col-12 image-center">
+<div class="col-12 mx-auto">
 <img class="avatar-circle" src=/author/alexander-kvartalny/avatar_hu33f5f57235d7950e444fbdb6fb6fb532_75201_270x270_fill_q90_lanczos_center.jpg alt=Avatar>
 <div class="col-12 text-center">
 <h1 class=hero-title itemprop=headline>Alexander Kvartalny</h1>
