@@ -63,4 +63,4 @@ subtitle = ""
 <li><a itemprop=sameAs href=mailto:alexander.kvartalny@gmail.com target=_blank rel=noopener><i class="fa fa-envelope big-icon"></i></li></a></li>
 <li><a itemprop=sameAs href=viber://chat/?number=%2B380669298059 target=_blank rel=noopener><i class="fab fa-viber big-icon"></i></li></a></li>
 <li><a itemprop=sameAs href=https://t.me/kvartalny target=_blank rel=noopener><i class="fab fa-telegram big-icon"></i></li></a></li>
-</ul><p class=cta-btns><a href=/#contact class="btn btn-light btn-lg"><i class="fas fa-paper-plane" aria-hidden=true></i> Get in touch</a></p></div></div>
+</ul><p class=cta-btns><li><a href=/#contact class="btn btn-light btn-lg"><i class="fas fa-paper-plane" aria-hidden=true></li></i>Get in touch</a></p></div></div>
