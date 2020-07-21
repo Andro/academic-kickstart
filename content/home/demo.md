@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 <div class=container>
-<img class="hero-avatar avatar-circle" src=/images/avatar_hu75dccb1b1ab307c60d8ece34225b1a7e_709018_270x270_fill_q90_lanczos_center.jpg alt=Avatar>
+<img class="hero-avatar avatar-circle" src=/author/alexander-kvartalny/avatar_hu33f5f57235d7950e444fbdb6fb6fb532_75201_270x270_fill_q90_lanczos_center.jpg alt=Avatar>
 <div class="col-12 text-center">
 <h1 class=hero-title itemprop=headline>Любовь Жалнерович</h1>
 <p class=hero-subtitle>В2В КООРДИНАТОР В ИТАЛИИ</p>
