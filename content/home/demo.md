@@ -51,11 +51,12 @@ subtitle = ""
 +++
 
 <div class=container>
-<img class="center avatar-circle" src=/author/alexander-kvartalny/avatar_hu33f5f57235d7950e444fbdb6fb6fb532_75201_270x270_fill_q90_lanczos_center.jpg alt=Avatar>
+<div class="col-4 mx-auto">
+<img class="avatar-circle" src=/author/alexander-kvartalny/avatar_hu33f5f57235d7950e444fbdb6fb6fb532_75201_270x270_fill_q90_lanczos_center.jpg alt=Avatar>
 <div class="col-12 text-center">
 <h1 class=hero-title itemprop=headline>Alexander Kvartalny</h1>
 <p class=hero-subtitle>Interpreter</p>
 <p class=hero-moto>Interpretations</p>
 <ul class=network-icon aria-hidden=true><li>
 <a itemprop=sameAs href=https://www.linkedin.com/in/alexander-kvartalny-russian-interpreter-89a19419b/ target=_blank rel=noopener><i class="fab fa-linkedin big-icon"></i></a>
-</li></ul><p class=cta-btns><a href=/ru/#contact class="btn btn-light btn-lg"><i class="fas fa-paper-plane" aria-hidden=true></i>Связаться со мной</a></p></div></div>
+</li></ul><p class=cta-btns><a href=/#contact class="btn btn-light btn-lg"><i class="fas fa-paper-plane" aria-hidden=true></i>Get in touch</a></p></div></div>
