@@ -48,6 +48,6 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++
 
 widget = "about"
++++
