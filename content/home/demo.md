@@ -50,26 +50,15 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
-
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
-
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
-
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+<div class=container>
+<img class="hero-avatar avatar-circle" src=/images/avatar_hu75dccb1b1ab307c60d8ece34225b1a7e_709018_270x270_fill_q90_lanczos_center.jpg alt=Avatar>
+<div class="col-12 text-center">
+<h1 class=hero-title itemprop=headline>Любовь Жалнерович</h1>
+<p class=hero-subtitle>В2В КООРДИНАТОР В ИТАЛИИ</p>
+<p class=hero-moto>Развитие бизнеса. Деловые коммуникации. Переводы.</p>
+<ul class=network-icon aria-hidden=true><li>
+<a itemprop=sameAs href=/ru/files/LiubouZhauniarovich_B2BCoordinator_RU.pdf target=_blank rel=noopener>
+<i class="ai ai-cv big-icon"></i></a></li><li>
+<a itemprop=sameAs href=https://www.instagram.com/b2blz_italy/ target=_blank rel=noopener><i class="fab fa-instagram big-icon"></i></a></li><li>
+<a itemprop=sameAs href=https://www.linkedin.com/in/liubou-zhauniarovich-12825b19/ target=_blank rel=noopener><i class="fab fa-linkedin big-icon"></i></a>
+</li></ul><p class=cta-btns><a href=/ru/#contact class="btn btn-light btn-lg"><i class="fas fa-paper-plane" aria-hidden=true></i>Связаться со мной</a></p></div></div>
