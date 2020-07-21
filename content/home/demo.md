@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 <div class=container>
-<div class="col-3 mx-auto">
+<div class="col-3 mx-auto"></div>
 <img class="avatar-circle" src=/author/alexander-kvartalny/avatar_hu33f5f57235d7950e444fbdb6fb6fb532_75201_270x270_fill_q90_lanczos_center.jpg alt=Avatar>
 <div class="col-12 text-center">
 <h1 class=demo-title itemprop=headline>Alexander Kvartalny</h1>
@@ -60,4 +60,4 @@ subtitle = ""
 <ul class=network-icon aria-hidden=true><li>
 <a itemprop=sameAs href=https://www.linkedin.com/in/alexander-kvartalny-russian-interpreter-89a19419b/ target=_blank rel=noopener><i class="fab fa-linkedin big-icon"></i></a>
 <a itemprop=sameAs href=https://www.messenger.com/t/kvartalny target=_blank rel=noopener><i class="fab fa-facebook-messenger big-icon"></i></a>
-</li></ul><p class=cta-btns><a href=/#contact class="btn btn-light btn-lg"><i class="fas fa-paper-plane" aria-hidden=true></i> Get in touch</a></p></div></div>
+</li></ul><p class=cta-btns><a href=/#contact class="btn btn-light btn-lg"><i class="fas fa-paper-plane" aria-hidden=true></i> Get in touch</a></p></div>
