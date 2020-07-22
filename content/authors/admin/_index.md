@@ -7,8 +7,8 @@ authors:
   - admin
 title: Alexander Kvartalny
 role: Interpreter in Kiev
-bio: "I interpret in Kiev. Helping you communicate in the local language in
-  Ukraine at meetings / events. "
+bio: "Helping you communicate in the local language in Ukraine at meetings /
+  online events. "
 interests:
   - Simultaneous interpretation
   - RSI
