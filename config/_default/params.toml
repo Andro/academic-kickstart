@@ -48,7 +48,7 @@ local_business_type = "ProfessionalService"
 org_name = "Interpreter in Kiev"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Interpreter in Kiev for you | Alexander Kvartalny"
 
 ############################
 ## Site Features
