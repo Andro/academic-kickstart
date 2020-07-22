@@ -21,7 +21,7 @@ copyright = "Alexander Kvartalny &copy; {year}"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "coffee"
+theme = "minimal"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
