@@ -93,7 +93,7 @@ phone = "+380 66 929 80 59"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bolbochana", city = "Kiev", region = "Kyiv", postcode = "01001", country = "Ukraine", country_code = "UA"}
+address = {street = "", city = "Kiev", region = "", postcode = "", country = "Ukraine", country_code = "UA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
