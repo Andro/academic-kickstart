@@ -34,7 +34,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-My name is Alexander Kvartalny. I'm a spoken translator based in Kiev.\
+My name is Alexander Kvartalny. I'm a spoken translator based in Kiev, Ukraine.\
 \
 I interpret across English, Russian and Ukrainian at private and public events, including meetings, negotiations, conferences, seminars, audits, presentations, business trips and others.\
 \
