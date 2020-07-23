@@ -52,13 +52,15 @@ subtitle = ""
 <center><img class="demo-avatar avatar-circle" src=/author/alexander-kvartalny/avatar_hu33f5f57235d7950e444fbdb6fb6fb532_75201_270x270_fill_q90_lanczos_center.jpg alt=Avatar></center>
 <div class="col-12 text-center">
 <h1 class=demo-title itemprop=headline>Hello! I'm Alexander,</h1>
-<p class=demo-subtitle>Interpreter</p>
-<p class=demo-moto>Interpretations</p>
+<p class=demo-subtitle>an interpreter based in Kiev, Ukraine. 
+</br>I interpret across English, Russian and Ukrainian.
+</br>Simultaneous, consecutive, liason and zoom interpetation.</p>
 <ul class=network-icon aria-hidden=true>
 <li><a itemprop=sameAs href=https://www.messenger.com/t/kvartalny target=_blank rel=noopener><i class="fab fa-facebook-messenger big-icon"></i></li></a>
 <li><a itemprop=sameAs href=https://wa.me/380669298059 target=_blank rel=noopener><i class="fab fa-whatsapp-square big-icon"></i></li></a>
 <li><a itemprop=sameAs href=https://www.linkedin.com/in/alexander-kvartalny-russian-interpreter-89a19419b/ target=_blank rel=noopener><i class="fab fa-linkedin big-icon"></i></li></a>
 <li><a itemprop=sameAs href=mailto:alexander.kvartalny@gmail.com target=_blank rel=noopener><i class="fa fa-envelope big-icon"></i></li></a>
 <li><a itemprop=sameAs href=viber://chat/?number=%2B380669298059 target=_blank rel=noopener><i class="fab fa-viber big-icon"></i></li></a>
+<li><a itemprop=sameAs href=tel:+380669298059 rel=noopener><i class="fa fa-phone-square big-icon"></i></li></a>
 <li><a itemprop=sameAs href=https://t.me/kvartalny target=_blank rel=noopener><i class="fab fa-telegram big-icon"></i></li></a>
 </ul><p class=cta-btns><a href=/#contact class="btn btn-light btn-lg"><i class="fas fa-paper-plane" aria-hidden=true></i>&nbsp;&nbsp;Get in touch</a></p></div>
